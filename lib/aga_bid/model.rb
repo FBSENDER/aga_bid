@@ -1,0 +1,1 @@
+require 'aga_bid/model/bid_job'
